@@ -4,10 +4,6 @@
  */
 package poo.ra03;
 
-/**
- *
- * @author renan.krefta
- */
 public class Registro {
 
     private int codigo;
