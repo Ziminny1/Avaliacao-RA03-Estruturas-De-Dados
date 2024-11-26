@@ -5,10 +5,6 @@ package poo.ra03;
 
 import java.util.Random;
 
-/**
- *
- * @author renan
- */
 public class RA03 {
 
     public static void main(String[] args) {
