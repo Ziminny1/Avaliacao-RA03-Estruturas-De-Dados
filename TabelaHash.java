@@ -4,10 +4,6 @@
  */
 package poo.ra03;
 
-/**
- *
- * @author renan.krefta
- */
 public class TabelaHash {
 
     private Registro[] tabela;
