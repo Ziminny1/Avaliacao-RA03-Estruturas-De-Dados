@@ -4,10 +4,6 @@
  */
 package poo.ra03;
 
-/**
- *
- * @author renan
- */
 public class TabelaHashDobramento {
 
     private Registro[] tabela;
